@@ -1,0 +1,4 @@
+[2020-08-02 08:49:19.792] [main] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/higor/desenvolvimento/laravel/projects/relationships/~/.vscode-root/User'
+[2020-08-02 08:49:20.100] [main] [info] update#setState idle
+[2020-08-02 08:49:50.108] [main] [info] update#setState checking for updates
+[2020-08-02 08:49:50.328] [main] [info] update#setState idle

@@ -1,0 +1,3 @@
+[2020-08-02 08:49:23.341] [sharedprocess] [info] main {"machineId":"7343971c73654d45890134c08d1337bd967dc779da291336684345dcb1185c9b","windowId":2}
+[2020-08-02 08:49:23.372] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/higor/desenvolvimento/laravel/projects/relationships/~/.vscode-root/User/snippets'
+[2020-08-02 08:50:03.356] [sharedprocess] [info] Starting to clean up unused language packs.
